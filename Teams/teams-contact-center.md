@@ -20,7 +20,7 @@ appliesto:
 
 # Contact Center integrations for Microsoft Teams
 
-Integrating popular contact center solutions with Microsoft Teams is a common need for customers deploying Teams Calling capabilities.  This article provides an overview of how contact center solutions can be integrated with Microsoft Teams and additional information on the partner solutions participating in the Microsoft Teams Connected Contact Center Certification Program.
+Integrating popular contact center solutions with Microsoft Teams is a common need for customers deploying Teams Calling capabilities.  This article provides an overview of how contact center solutions can be integrated with Microsoft Teams and additional information on the solution providers participating in the Microsoft Teams Connected Contact Center Certification Program.
 
 ## What is a Contact Center integration for Microsoft Teams?
 
@@ -36,18 +36,18 @@ For others who desire integrated solutions with business tools and workflows to 
 
 ## Connected Contact Center for Microsoft Teams Certification Program
 
-The APIs allow partners to develop and integrate CCaaS solutions for Teams. In addition, we have developed the Connected Contact Center for Microsoft Teams Certification Program to provide customers with the assurance that each participating partner’s solution has been tested and verified to provide the quality, compatibility, and reliability they expect from Microsoft solutions.
+The APIs allow solution providers to develop and integrate CCaaS solutions for Teams. In addition, we have developed the Connected Contact Center for Microsoft Teams Certification Program to provide customers with the assurance that each participating provider’s solution has been tested and verified to provide the quality, compatibility, and reliability they expect from Microsoft solutions.
 
-The following partners have a certified solution for Microsoft Teams and are ready to engage customers:
+## Connected Contact Center solutions CERTIFIED for Microsoft Teams
 
-|  Partner                                                                                                                               |  Solution website                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  Solution Provider                                                                                                                               |  Solution website                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Anywhere365` | https://anywhere365.io/direct-routing-contact-center-for-microsoft-teams/                                      |
 | `ComputerTalk` | https://www.computer-talk.com/product/enterprise-contact-center/ice-contact-center-for-teams         |
 
-The following partners are in the process of certifying their solution for Microsoft Teams and are ready to engage customers:
+## Contact Center solutions currently in the certification process
 
-|  Partner                                                                                                                               |  Solution website                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|  Solution Provider                                                                                                                              |  Solution website                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Competella` | https://www.competella.com/microsoft-teams-skype-for-business                                  |
 | `ContactCenter4All` | www.contactcenter4all.com |
@@ -62,11 +62,11 @@ The following partners are in the process of certifying their solution for Micro
 | `novomind` | https://www.novomind.com/en/customer-service-software-call-center/microsoft-teams/                             |
 | `Tendfor` | https://www.tendfor.com/en/                                                                                     |
 
-This list will be updated as more partners join and meet the certification criteria.
+This list will be updated as more solution providers join and meet the certification criteria.
 
 ### Connect
 
-This model connects CCaaS partners with Microsoft Teams phone system infrastructure, enabling enhanced routing, configuration, and system insights. 
+This model connects CCaaS solution providers with Microsoft Teams phone system infrastructure, enabling enhanced routing, configuration, and system insights. 
 
 Agents using solutions built on the Connect model can gather information & insights and if necessary transfer calls to subject matter experts directly, using the SME’s presence in Teams to ensure their availability.
 
@@ -86,11 +86,11 @@ While the following is not a comprehensive list of feature capabilities for this
 
   - Able to support multi-tenant SIP trunking to support several customers on partner’s SBC.  
 
-  - Partners to use [<span class="underline">Microsoft certified session border controller (SBC)</span>](https://docs.microsoft.com/MicrosoftTeams/direct-routing-border-controllers) 
+  - Solution providers to use [<span class="underline">Microsoft certified session border controller (SBC)</span>](https://docs.microsoft.com/MicrosoftTeams/direct-routing-border-controllers) 
 
 ### Connect and extend
 
-This model extends contact center personnel and agent experiences by integrating with the Teams client using the [Teams client platform](https://docs.microsoft.com/microsoftteams/platform/overview), [Teams Graph APIs](https://docs.microsoft.com/graph/api/resources/teams-api-overview?view=graph-rest-1.0) and [Cloud Communications API in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/communications-api-overview?view=graph-rest-1.0) and uses the Teams phone system for all contact center calls and call control experiences. In this model, the contact center partner acts as a telephony carrier alongside Microsoft 365.
+This model extends contact center personnel and agent experiences by integrating with the Teams client using the [Teams client platform](https://docs.microsoft.com/microsoftteams/platform/overview), [Teams Graph APIs](https://docs.microsoft.com/graph/api/resources/teams-api-overview?view=graph-rest-1.0) and [Cloud Communications API in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/communications-api-overview?view=graph-rest-1.0) and uses the Teams phone system for all contact center calls and call control experiences. In this model, the contact center solution provider acts as a telephony carrier alongside Microsoft 365.
 
 By using Connect and Extend-based solutions, agents can benefit from dynamic, contextual notes correlating data from multiple systems prior to starting an engagement and then avoid costly context switching by working natively within Teams for both internal collaboration and external communications.
 
@@ -118,11 +118,11 @@ While the following is not a comprehensive list of feature capabilities for this
 
 ### Extend and power
 
-This model enables partners to create native Azure-based voice applications using the Teams calling infrastructure and client platform to deliver modern, intelligent solutions for collaborative customer and agent connection. The goal of Extend and Power is to stoke developer creativity and drive customer productivity.
+This model enables solution providers to create native Azure-based voice applications using the Teams calling infrastructure and client platform to deliver modern, intelligent solutions for collaborative customer and agent connection. The goal of Extend and Power is to stoke developer creativity and drive customer productivity.
 
-By building directly on Azure, partners can rapidly deploy and provision their solution across all Teams regions and geographies, benefitting from our shared, global communications network while taking advantage of Azure’s storage, compute, analytics & cognitive services.
+By building directly on Azure, solution providers can rapidly deploy and provision their solution across all Teams regions and geographies, benefitting from our shared, global communications network while taking advantage of Azure’s storage, compute, analytics & cognitive services.
 
-With the Extend and Power integration model, partners can provide contact center agents with omni-channel communication experiences while incorporating artificial intelligence to customize how and when participants - or other services - are engaged in a call applying the [Cloud Communications API in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/communications-api-overview?view=graph-rest-1.0).
+With the Extend and Power integration model, solution providers can provide contact center agents with omni-channel communication experiences while incorporating artificial intelligence to customize how and when participants - or other services - are engaged in a call applying the [Cloud Communications API in Microsoft Graph](https://docs.microsoft.com/graph/api/resources/communications-api-overview?view=graph-rest-1.0).
 
 **Feature highlights:**
 
